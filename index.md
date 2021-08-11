@@ -29,12 +29,9 @@ Syntax highlighted code block
 
 My [CakeResume](https://www.cakeresume.com/006f39){:target="_blank" rel="noopener"}
 
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
- [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/tseyu"
 
 ### Jekyll Themes
 
