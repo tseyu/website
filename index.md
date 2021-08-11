@@ -25,9 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-For more detail about me, please go to my [CakeResume](https://www.cakeresume.com/006f39)
-
 ```
+
+For more detail about me, please go to my [CakeResume](https://www.cakeresume.com/006f39)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
