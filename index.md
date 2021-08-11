@@ -27,10 +27,7 @@ Syntax highlighted code block
 
 ```
 
-My [CakeResume](https://www.cakeresume.com/006f39)
-
-[Go](https://www.cakeresume.com/006f39){:target="_blank" rel="noopener"}
-
+My [CakeResume](https://www.cakeresume.com/006f39){:target="_blank" rel="noopener"}
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
